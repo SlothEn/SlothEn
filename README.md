@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Yo 👋
+3rd Year Undergraduate at the University of Edinburgh
+Going for a BSc in Artificial Intelligence and Computer Science
 <!--
 **SlothEn/SlothEn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
