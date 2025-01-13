@@ -1,6 +1,6 @@
 ### Yo 👋
 
-3rd Year Undergraduate at the University of Edinburgh
+4rd Year Undergraduate at the University of Edinburgh
 
 Going for a BSc in Artificial Intelligence and Computer Science
 <!--
